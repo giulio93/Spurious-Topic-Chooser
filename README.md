@@ -1,5 +1,17 @@
 # Levenshtein-String-Region
 
+This code help me to choose a theme dinner topic.
+
+INPUT:
+Every friend suggest me a word of the alphabet and i store it in the stupidi string variable. 
+Then i create a vector ,stupidi_age, where i collect the age of my friends.
+I download a dataset of  the 20 Italian regions.
+OUTPUT:
+The name of the minimum distance region to the stupidi string.
+The stupidi string is manipulated with a letter of the 5th nearest regions.
+The minimum distance value is fixed by the user.
+
+
 Using LVD a random string is compared with a dataset scraped from the web.
 BeautifulSoap4 is used to scrape the webpage, and downloads the data from a <HTML> </HTML> table.
 
