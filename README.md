@@ -1,6 +1,7 @@
 # Levenshtein-String-Region
 
-This code help me to choose a theme dinner topic.
+This code help me to choose a theme dinner topic, using friend's age and 20 Italian regions.
+YES, That's a [sporious correlation] (https://www.tylervigen.com/spurious-correlations)
 
 ## INPUT:
 Every friend suggest me a letter of the alphabet and i store it in the stupidi string variable. 
@@ -30,7 +31,7 @@ For each region an index is calculated as follow:
 * the selected age is divided by the number of provinces in each region.
 * This index is used to get a letter of the region and substitute it in the stupidi string.
 
-In this way the region is going to affect the random string and contribute to modify it.
+Thus, the region is going to affect the random stupidi string and contribute to modify it.
 The substitution can happen in three different way:
 
 1) ===BEST SUB===: The index point to a letter of the region, and the letter can be directly substituted in stupidi string.
