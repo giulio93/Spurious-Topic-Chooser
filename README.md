@@ -1,7 +1,7 @@
 # Levenshtein-String-Region
 
 This code help me to choose a theme dinner topic, using friend's age and 20 Italian regions.
-YES, That's a [sporious correlation](https://www.tylervigen.com/spurious-correlations)
+YES, That's a [spurious correlation](https://www.tylervigen.com/spurious-correlations)
 
 ## INPUT:
 Every friend suggest me a letter of the alphabet and i store it in the stupidi string variable. 
