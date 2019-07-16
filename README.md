@@ -25,8 +25,10 @@ The LVD is calculated between the random string variable stupidi and all the reg
 
 Once the LVD is calculated, the best five region are drawn.
 
-For each region an index is calculated as follow:  each stupidi_age is divided by the number of provinces in each region.
-This index is used to get a letter of the region and substitute it in the stupidi string.
+For each region an index is calculated as follow:  
+* drawn random an index for stupidi_age vector 
+* the selected age is divided by the number of provinces in each region.
+* This index is used to get a letter of the region and substitute it in the stupidi string.
 
 In this way the region is going to affect the random string and contribute to modify it.
 The substitution can happen in three different way:
